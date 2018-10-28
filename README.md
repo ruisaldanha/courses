@@ -23,6 +23,9 @@
 ### DataViz
 * Good Tableau Course
 
+### WebApps
+* Flask / Django for quick & dirty apps
+
 # Interesting Resources
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
 * https://www.youtube.com/watch?v=eDK1R6tpZlA
