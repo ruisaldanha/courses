@@ -1,24 +1,28 @@
 # Courses To Finish
 
-## Databases
+### Databases
 * [The Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)
 
-## Python
+### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
 # Courses to Do
 
-## Maths
+### Maths
 * [Essential Math for Machine Learning (edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
 
-## Stats
+### Stats
 * [Intro to Descriptive Statistics (Udacity)](https://classroom.udacity.com/courses/ud827)
 * [Intro to Inferential Statistics (Udacity)](https://classroom.udacity.com/courses/ud201)
 * [A/B Testing (Udacity)](https://classroom.udacity.com/courses/ud257)
 * [Khan Academy Modules on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
-## Machine Learning
+### Machine Learning
 * [Andrew Ng's Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-## DataViz
+### DataViz
 * Good Tableau Course
+
+# Interesting Resources
+https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
+https://www.youtube.com/watch?v=eDK1R6tpZlA
