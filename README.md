@@ -15,6 +15,7 @@
 * [Intro to Descriptive Statistics (Udacity)](https://classroom.udacity.com/courses/ud827)
 * [Intro to Inferential Statistics (Udacity)](https://classroom.udacity.com/courses/ud201)
 * [A/B Testing (Udacity)](https://classroom.udacity.com/courses/ud257)
+* [Khan Academy Modules on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Machine Learning
 * [Andrew Ng's Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome)
