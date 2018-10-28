@@ -27,3 +27,7 @@
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
 * https://www.youtube.com/watch?v=eDK1R6tpZlA
 * GitHub Pages
+
+### Look into these
+* https://www.coursera.org/specializations/data-science-python
+* https://micromasters.mit.edu/ds/
