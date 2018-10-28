@@ -24,5 +24,6 @@
 * Good Tableau Course
 
 # Interesting Resources
-https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
-https://www.youtube.com/watch?v=eDK1R6tpZlA
+* https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
+* https://www.youtube.com/watch?v=eDK1R6tpZlA
+* GitHub Pages
