@@ -6,6 +6,10 @@
 ### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
+# Python / DS Exercises
+* [Edabit](https://edabit.com)
+* [Kaggle Learn](https://www.kaggle.com/learn/overview)
+
 # Courses to Look Into
 
 ### Databases
@@ -31,11 +35,16 @@
 ### WebApps
 * [Python and Flask Bootcamp: Create Websites using Flask! (Udemy)](https://www.udemy.com/python-and-flask-bootcamp-create-websites-using-flask/)
 
+### Full fledged degrees
+* https://www.coursera.org/specializations/data-science-python
+* https://micromasters.mit.edu/ds/
+
 # Interesting Resources
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
 * https://www.youtube.com/watch?v=eDK1R6tpZlA
 * GitHub Pages
+* http://dmlc.cs.washington.edu/xgboost.html
+* https://jeffdelaney.me/blog/useful-snippets-in-pandas/
+* https://chrisalbon.com/
 
-### Full fledged degrees
-* https://www.coursera.org/specializations/data-science-python
-* https://micromasters.mit.edu/ds/
+
