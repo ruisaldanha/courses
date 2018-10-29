@@ -29,7 +29,7 @@
 * [Tableau 10 A-Z: Hands-On Tableau Training For Data Science! (Udemy)](https://www.udemy.com/tableau10/)
 
 ### WebApps
-* Flask / Django for quick & dirty apps
+* [Python and Flask Bootcamp: Create Websites using Flask! (Udemy)](https://www.udemy.com/python-and-flask-bootcamp-create-websites-using-flask/)
 
 # Interesting Resources
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
