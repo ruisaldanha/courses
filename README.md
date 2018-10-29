@@ -17,6 +17,7 @@
 
 ### Maths
 * [Essential Math for Machine Learning (edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
+* [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 ### Stats
 * [Intro to Descriptive Statistics (Udacity)](https://classroom.udacity.com/courses/ud827)
