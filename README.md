@@ -12,6 +12,9 @@
 
 # Courses to Look Into
 
+### Python
+* [Python for Everybody (Coursera) - 2-5](https://www.coursera.org/specializations/python)
+
 ### Databases
 * [SQL for Data Analysis (Udemy)](https://eu.udacity.com/course/sql-for-data-analysis--ud198)
 
