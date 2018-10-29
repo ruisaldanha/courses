@@ -1,12 +1,15 @@
 # Courses To Finish
 
-### Databases
+### SQL
 * [The Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)
 
 ### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
-# Courses to Do
+# Courses to Look Into
+
+### Databases
+* [SQL for Data Analysis (Udemy)](https://eu.udacity.com/course/sql-for-data-analysis--ud198)
 
 ### Maths
 * [Essential Math for Machine Learning (edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
@@ -21,7 +24,9 @@
 * [Andrew Ng's Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 ### DataViz
-* Good Tableau Course
+* [Tableau Starter Kit (Tableau)](https://www.tableau.com/learn/starter-kits/author/desktop)
+* [Data Visualization in Tableau (Udemy)](https://eu.udacity.com/course/data-visualization-in-tableau--ud1006)
+* [Tableau 10 A-Z: Hands-On Tableau Training For Data Science! (Udemy)](https://www.udemy.com/tableau10/)
 
 ### WebApps
 * Flask / Django for quick & dirty apps
@@ -31,6 +36,6 @@
 * https://www.youtube.com/watch?v=eDK1R6tpZlA
 * GitHub Pages
 
-### Look into these
+### Full fledged degrees
 * https://www.coursera.org/specializations/data-science-python
 * https://micromasters.mit.edu/ds/
