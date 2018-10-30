@@ -13,6 +13,7 @@
 # Courses to Look Into
 
 ### Python
+* [Applied Data Science with Python Specialization (Coursera)](https://www.coursera.org/specializations/data-science-python)
 * [Python for Everybody (Coursera) - 2-5](https://www.coursera.org/specializations/python)
 
 ### Databases
@@ -40,7 +41,6 @@
 * [Python and Flask Bootcamp: Create Websites using Flask! (Udemy)](https://www.udemy.com/python-and-flask-bootcamp-create-websites-using-flask/)
 
 ### Full fledged degrees
-* https://www.coursera.org/specializations/data-science-python
 * https://micromasters.mit.edu/ds/
 
 # Interesting Resources
