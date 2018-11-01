@@ -2,7 +2,7 @@
 
 ### SQL
 * [The Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)
-* [SQL Teaching](https://www.sqlteaching.com)
+* [Select STAR SQL](https://selectstarsql.com/) 
 
 ### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
@@ -16,6 +16,7 @@
 
 ### Databases
 * [SQL for Data Analysis (Udemy)](https://eu.udacity.com/course/sql-for-data-analysis--ud198)
+* [SQL Teaching](https://www.sqlteaching.com)
 
 ### Maths
 * [Essential Math for Machine Learning (edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
@@ -49,7 +50,7 @@
 * [Edabit](https://edabit.com)
 
 ### SQL
-* [Select STAR SQL](https://selectstarsql.com/)
+
 * [SQL Bolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises
 * [SQL Trainer](https://app.bytescout.com/sql-trainer/index.html)
 * [Interactive PostgreSQL SQL Tutorial](https://chartio.com/learn/sql/)
