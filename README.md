@@ -2,6 +2,7 @@
 
 ### SQL
 * [The Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)
+* [SQL Teaching](https://www.sqlteaching.com)
 
 ### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
@@ -57,6 +58,9 @@
 * [SQL Zoo](http://sqlzoo.net/)
 * [SQL Teaching](https://www.sqlteaching.com/)
 
+### SQL Games
+* Schemaverse(https://schemaverse.com/)
+* GalaXQL(http://sol.gfxile.net/g3/)
 
 # Interesting Resources
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
