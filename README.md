@@ -6,9 +6,6 @@
 ### Python
 * [Python for Data Science and Machine Learning (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
-# Python / DS Exercises
-* [Edabit](https://edabit.com)
-* [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
 # Courses to Look Into
 
@@ -42,6 +39,24 @@
 
 ### Full fledged degrees
 * https://micromasters.mit.edu/ds/
+
+# Exercises
+### DS
+* [Kaggle Learn](https://www.kaggle.com/learn/overview)
+
+### Python
+* [Edabit](https://edabit.com)
+
+### SQL
+* [Select STAR SQL](https://selectstarsql.com/)
+* [SQL Bolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises
+* [SQL Trainer](https://app.bytescout.com/sql-trainer/index.html)
+* [Interactive PostgreSQL SQL Tutorial](https://chartio.com/learn/sql/)
+* [SQL Window functions](https://www.windowfunctions.com/)
+* [PostgreSQL Exercises](https://pgexercises.com/)
+* [SQL Zoo](http://sqlzoo.net/)
+* [SQL Teaching](https://www.sqlteaching.com/)
+
 
 # Interesting Resources
 * https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist
